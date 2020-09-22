@@ -13,3 +13,9 @@
 ![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab1/image%202.png)
 
 # Лабораторная работа 2
+
+![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/01_A0.png)
+
+![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/02_A0.png)
+
+![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/03_A1.png)
