@@ -14,8 +14,11 @@
 
 # Лабораторная работа 2
 
+## IDEF0 diagram
+# Контекстная
 ![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/01_A0.png)
 
 ![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/02_A0.png)
 
+## DFD diagram (Управлять)
 ![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/03_A1.png)
