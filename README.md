@@ -22,3 +22,6 @@
 
 ## DFD diagram (Управлять)
 ![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/03_A1.png)
+
+## Usecase diagram
+![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/image%203.png)
