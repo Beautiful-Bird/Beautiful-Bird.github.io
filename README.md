@@ -1,27 +1,12 @@
 # [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-id..) Гордиенко Анна
 
-# Лабораторная работа 1
 
-Предложение: Заваривать чай
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab1/model.png)
-Предложение: Бариста заваривает чай из кипятка и чайных листьев в чайнике на заказ
+# Домашнее задание по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#%D0%98%D0%94%D0%91-17-05) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2#%D0%98%D0%94%D0%91-17-05)
 
-## class diagram
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab1/image%201.png)
+# [Отчет по лабораторным](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-1---3) работам 1-3
 
-## usecase diagram
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab1/image%202.png)
+# Домашнее задание по [семинарам 3-4](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/wiki/%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0) 
 
-# Лабораторная работа 2
+# [Отчет по лабораторным]() работам 4-6
 
-## IDEF0 diagram
-# Контекстная
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/01_A0.png)
-
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/02_A0.png)
-
-## DFD diagram (Управлять)
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/03_A1.png)
-
-## Usecase diagram
-![none](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Lab2/image%203.png)
+# Рефераты: [разработанный]() и [проверенный]()
