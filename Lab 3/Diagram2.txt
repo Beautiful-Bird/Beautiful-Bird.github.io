@@ -1,0 +1,29 @@
+@startuml
+skinparam class {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+class ControlInfo as "Информационный поток"
+
+class Order as "Заказ"
+class Recipe as "Рецепт (чай)"
+class Review as "Отзыв посетителя"
+class Good as "Товар"
+
+class Data as "Запись в БД"
+
+
+ControlInfo <|— Data
+Data <|— Order
+Order *— Recipe
+Order *— Review
+Order *— Good
+
+hide members
+hide circle
+hide methods
+@enduml
+
+[none!](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Pictures/mWsKCG3ftAQ.jpg)
