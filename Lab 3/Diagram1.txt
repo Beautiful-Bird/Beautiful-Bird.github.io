@@ -1,0 +1,16 @@
+@startuml
+actor "Менеджер" as user
+boundary "Приложение" as app
+entity "Данные" as data
+actor "Мойщик" as user1
+
+user -> app : Отправка
+app -> data : Заказ (чай)
+data -> app : Ответ
+app -> user1 : Отображение необходимой инструкции
+user1 -> app : Подтверждение
+app -> user : Подтверждение заказа
+@enduml
+
+[none!](https://github.com/Beautiful-Bird/Beautiful-Bird.github.io/blob/master/Pictures/S96LzMaWnic.jpg)
+
