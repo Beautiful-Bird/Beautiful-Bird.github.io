@@ -1,0 +1,42 @@
+@startuml
+left to right direction
+
+skinparam actor {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam usecase {
+BackgroundColor Beige
+ArrowColor Black
+BorderColor Black
+}
+
+actor Admin as "Администратор"
+
+usecase case1 as "Прием поставки"
+usecase case2 as "Обновление каталога"
+usecase case3 as "Отбор по основным параметрам"
+usecase case4 as "Отбор по узким параметрам"
+usecase case5 as "Поиск автомобиля в салоне"
+usecase case6 as "Выбор комплектации и внешнего вида"
+usecase case7 as "Обсуждение стоимости"
+usecase case8 as "Оплата"
+
+actor Manager as "Менеджер"
+
+actor Cassir as "Кассир"
+
+Admin --- case1
+Admin --- case2
+Admin --- case8
+
+Manager --- case3
+Manager --- case4
+Manager --- case5
+Manager --- case6
+Manager --- case7
+
+Cassir --- case8
+@enduml
