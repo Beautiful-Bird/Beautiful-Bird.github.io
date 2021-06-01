@@ -39,4 +39,15 @@ Manager --- case6
 Manager --- case7
 
 Cassir --- case8
+
+actor Programm as "Приложение"
+
+case1 --- Programm
+case2 --- Programm
+case3 --- Programm
+case4 --- Programm
+case5 --- Programm
+case6 --- Programm
+case7 --- Programm
+case8 --- Programm
 @enduml
