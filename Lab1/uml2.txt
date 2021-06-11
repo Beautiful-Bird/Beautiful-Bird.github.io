@@ -1,0 +1,19 @@
+@startuml
+skinparam monochrome true
+
+actor Администратор as user
+participant "Информационная поддержка" as system
+database "База данных" as base
+
+user -> system : Запрос на обновление каталога
+activate system
+system -> base : Запрос необходимых данных
+activate base
+base -> system : Список данных
+system -> base : Обновление каталога
+base -> system : Обновленный каталог
+system -> base : Сохранение каталога
+deactivate base
+system -> user : Обновленный каталог
+deactivate system
+@enduml
