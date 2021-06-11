@@ -2,7 +2,7 @@
 skinparam monochrome true
 
 actor Администратор as user
-participant "Информационная поддержка" as system
+participant "Информационная система" as system
 database "База данных" as base
 
 user -> system : Запрос на обновление каталога
